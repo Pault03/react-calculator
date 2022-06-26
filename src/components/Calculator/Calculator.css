@@ -1,0 +1,30 @@
+.Calculator {
+    text-align: center;
+}
+
+.answerBox {
+    font-style: italic;
+    width: 100px;
+    height: 40px;
+    margin: 20px;
+    text-align: center;
+}
+
+.errorMessage {
+    color: red;
+    font-style: italic;
+    margin: 20px;
+}
+
+.operator {
+    font-style: italic;
+    width: 40px;
+    height: 40px;
+    text-align: center;
+}
+
+.equals {
+    font-style: italic;
+    width: 40px;
+    height: 40px;
+}
